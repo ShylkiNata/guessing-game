@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sockets_example_1</string>
+    <string name="text">Think of a number and\nclick on the inscription</string>
+    <string name="exit">Exit</string>
+
+</resources>
